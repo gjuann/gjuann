@@ -1,6 +1,6 @@
 ## Olá sou Gabriel Juan
 
-<p> Sou estudante de analise de desenvolvimento de sistema </p>
+<p> Sou estudante de Análise e Desenvolvimento de Sistemas </p>
   
  <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gjuann&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
