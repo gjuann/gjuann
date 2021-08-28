@@ -1,4 +1,4 @@
-## Ola 
+## Olá sou Gabriel Juan
 
 <p> Sou estudante de analise de desenvolvimento de sistema </p>
   
