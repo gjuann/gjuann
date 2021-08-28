@@ -19,7 +19,7 @@
 
 <div>
 
-<a href="https://www.linkedin.com/in/gabriel-juan-836727215/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/gabriel-juan-836727215/>"target="_blank"<img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:gabrielvkm878@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <img height="25" width="130" src="https://komarev.com/ghpvc/?username=gjuann&color=green" alt="gjuann" /> 
 
